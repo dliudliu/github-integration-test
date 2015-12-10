@@ -1,0 +1,1 @@
+ui module daniel3 { page Home { "id": "daniel3.Home", "name": "Home", "template": "c3ui.Dashboard2x2", "thumbnail": "template-thumbs/120/ui.Dashboard2x2.gif", "title": "Home", "url": "home"  }
