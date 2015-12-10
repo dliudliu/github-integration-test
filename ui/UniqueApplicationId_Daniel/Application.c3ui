@@ -1,0 +1,1 @@
+ui module UniqueApplicationId_Daniel { application UniqueApplicationId_Daniel { "name": "UniqueApplicationId_Daniel", "humanName": "HumanReadableName_Daniel", "url": "Url_Daniel", "package": "PackageName_Daniel", "defaultPage": "Home", "showMenu": true, "thumbnail": "template-thumbs/120/ui.Dashboard2x2.gif" } }
